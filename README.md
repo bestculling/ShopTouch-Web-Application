@@ -1,10 +1,37 @@
-![Generative AI For Beginners](./public/thubmnail.png)
+<div align="center">
+  <br />
+  <img src="public/thubmnail.png" alt="Project Logo"> <br />
+  <h1 align="center">ShopTouch E-Commerce Web application</h1>
+  <div align="center">
+    An E-commerce platform built with Next.js, Tailwind CSS and MongoDB. 
+  </div>
+</div>
 
-# ShopTouch E-Commerce Web application
+## 📋 Table of Contents
 
-First, run the development server:
-A project I'm proud of is the ShopTouch web application. I was the lead developer on this project, responsible for both the frontend and backend development. I built a full-stack e-commerce platform using Next.js for server-side rendering and API routes, Redux Toolkit for efficient state management, and MongoDB as the database for storing product, user, and order data. The platform includes a user-friendly interface for browsing and purchasing products, as well as an admin dashboard for managing products, orders, and user accounts
+1. 🛍️ [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🚀 [Features](#features)
 
-# Tech Stack
+## 🛍️ <a name="introduction">Introduction</a>
 
-- react js, next js, mongodb, redux toolkit and next auth
+This is a full-stack e-commerce platform built using Next.js for the frontend, Tailwind CSS for styling, and MongoDB for the database. It provides a seamless shopping experience with features for browsing products, managing a shopping cart, and processing orders.
+
+## ⚙️ <a name="tech-stack">Tech Stack</a>
+
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Image Upload:** UploadThing
+- **Authentication:** NextAuth.js
+- **State Management:** Redux Toolkit
+
+## 🚀 <a name="features">Features</a>
+
+- **Product Browsing:** Display products with images, descriptions, and prices.
+- **Shopping Cart:** Add and remove items from the cart, and update quantities.
+- **Admin Dashboard:** 
+    - Add, edit, and delete products.
+    - View and manage orders.
+- **Secure Authentication:** User login and registration with NextAuth.js.
+- **Image Uploads:** Handle product image uploads securely and efficiently with UploadThing.
